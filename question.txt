@@ -1,0 +1,24 @@
+Questoes respondidas e codigos em python.
+
+1 questao > Ao final do processamento, o valor da variavel SOMA sera 91. (question_one)
+
+2 questao > codigo (Fibonacci)
+
+3 questao >
+a) numeros impares consecutivos, proximo numero seria 9.
+
+b) sequencia de potencias de 2, o proximo numero seria 128.
+
+c) sequencia de quadrados perfeitos. o proximo numero seria 49.
+
+d) sequencia de quadrados perfeitos de numeros pares, o proximo numero seria 100.
+
+e) sequencia de Fibonacci, o proximo numero seria 13.
+
+f) Nao identifiquei uma regra clara para determinar o proximo numero, nao posso completar a sequencia com base em uma logica, seria 20?
+
+4 questao > Ligaria um dos 3 interrupitores e deixaria tempo suficiente para esquentar a lampada conectada a ele, depois desligaria esse e ligaria outro
+ai iria ate a sala para verificar qual lampada esta quente para associala ao 1 interrupitor que estava ligado e a lampada acesa estaria conectada ao interrupitor
+que ficou ligado, e a outra lampada estaria ligada ao interrupitor que sobrou.
+
+5 questao > codigo (string_invers)
